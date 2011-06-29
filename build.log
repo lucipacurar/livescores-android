@@ -1,0 +1,31 @@
+Logfile initialized
+[INFO] logfile = /home/lucian/Desktop/com.lucianpacurar.livescores/build.log
+[DEBUG] /home/lucian/.titanium/mobilesdk/linux/1.7.1/android/builder.py simulator com.lucianpacurar.livescores /home/lucian/android-sdk-linux_x86 /home/lucian/Desktop/com.lucianpacurar.livescores com.lucianpacurar.livescores 12 HVGA 
+[INFO] Building com.lucianpacurar.livescores for Android ... one moment
+[INFO] Titanium SDK version: 1.7.1 (06/21/11 14:28 1293a6d)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.006567 seconds on emulator to get ready
+[DEBUG] com.lucianpacurar.livescores installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /home/lucian/Desktop/com.lucianpacurar.livescores/Resources/win.js => /home/lucian/Desktop/com.lucianpacurar.livescores/build/android/bin/assets/Resources/win.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /home/lucian/Desktop/com.lucianpacurar.livescores/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /home/lucian/Desktop/com.lucianpacurar.livescores/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-long-land-hdpi splash screen at /home/lucian/Desktop/com.lucianpacurar.livescores/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /home/lucian/Desktop/com.lucianpacurar.livescores/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /home/lucian/Desktop/com.lucianpacurar.livescores/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /home/lucian/Desktop/com.lucianpacurar.livescores/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /home/lucian/Desktop/com.lucianpacurar.livescores/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /home/lucian/Desktop/com.lucianpacurar.livescores/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /home/lucian/Desktop/com.lucianpacurar.livescores/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /home/lucian/Desktop/com.lucianpacurar.livescores/Resources/android/images/res-notlong-land-ldpi/default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... com.lucianpacurar.livescores
+[INFO] Launching application ... com.lucianpacurar.livescores
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.lucianpacurar.livescores/.ComLucianpacurarLivescoresActivity }
+
+[INFO] Relaunched com.lucianpacurar.livescores ... Application should be running.
